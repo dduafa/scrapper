@@ -18,7 +18,7 @@ eventlet==0.24.1
 Flask==1.0.2
 Flask-Cors==3.0.7
 Flask-DebugToolbar==0.10.1
-flower==0.9.3
+flower==1.2.0
 funcsigs==1.0.2
 future==0.17.1
 greenlet==0.4.15
